@@ -1,2 +1,2 @@
 # FunctionalCompletenessForArityNGates
-A research project created in Wolfram Language to analyze the ideas of functional completeness among logic gates with any number of inputs.
+Link to project: [https://community.wolfram.com/groups/-/m/t/3752491]
